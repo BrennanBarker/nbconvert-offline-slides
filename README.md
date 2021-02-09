@@ -1,7 +1,7 @@
 # offline-jupyter-slides
 Configuration and files for offline Jupyter Notebook-derived reveal.js slides
 
-# Optional
+## Usage
 1. Convert your jupyter notebook to slides using the config file found in this
    repo (`offline-slides-nbconvert-config.py`):
 
